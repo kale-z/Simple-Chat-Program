@@ -1,5 +1,5 @@
 # Simple Chatting Program 
-This is a simple program of TCP connection as a chatting server by Socket Programming, where multiple clients may join and chat with each other.
+This is a simple program of TCP connection as a chatting server by Socket and Threading Programming, where multiple clients may join and chat with each other.
 
 
 <br>
