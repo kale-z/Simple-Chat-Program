@@ -14,7 +14,7 @@ This program includes only two main files, which are:
 
 ## Usage
 1. Run the server file ```Server.py```.
-2. Now the server is running and listening to the port waiting for users to join the chat room as it's shown in the logs screen.
+2. Now the server is listening to the port waiting for users to join the chat room.
 3. Run the client file ```Client.py```.
 4. Now, you can see that the client has joined the chat room and you may start typing/chatting
 
